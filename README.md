@@ -1,4 +1,4 @@
-# FE2
+# FKanban
 
 To start, clone this repo and run:
 1. `npm install` (install all needed dependencies)
