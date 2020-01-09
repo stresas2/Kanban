@@ -5,3 +5,5 @@ To start, clone this repo and run:
 2. `npm start` (start our local development server)
 
 > `http://localhost:3000` is the default path to our served site
+
+Live link: http://kanban.mygidas.lt/
